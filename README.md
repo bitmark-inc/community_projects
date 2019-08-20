@@ -5,7 +5,7 @@ Open source projects made by the community and based on or using Bitmark API and
 We really want to know about it and perhaps we can help you a bit with engineering support and ideas, promote it or just send you a cool Bitmark t-shirt and some nice stickers.
 
 # How you can share your project with us?
-Send an email to [Open Source Project](mailto:haiching@bitmark.com) sharing your repository address as well as a description about what your project does. If you need some help to understand our API or any of our tools, please contact us too.
+Send an email to [Open Source Project](mailto:haiching@bitmark.com) sharing your repository address as well as a description about what your project does. You also can open an issue here or even a pull request, <strong>if you need some help to understand our API or any of our tools, please contact us too.</strong>
 
 One of our engineers will check your project, if it is something cool we definitely will reach back to you.
 
