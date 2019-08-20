@@ -1,5 +1,5 @@
 [![Made by](https://img.shields.io/badge/Made%20by-Bitmark%20Inc-lightgrey.svg)](https://bitmark.com)
-[![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/bitmark-inc/community_projects)
 
 # Bitmark Community Projects
 Open source projects made by the community and based on or using Bitmark API and tools will be placed here. The intention of this repository is to collect and promote the Bitmark Open Source Community Projects.
