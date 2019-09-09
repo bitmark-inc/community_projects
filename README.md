@@ -16,3 +16,8 @@ One of our engineers will check your project, if it is something cool we definit
 | Project Repo | Description | Language | Author |
 |--------------|-------------|----------|--------|
 |[Bitmark Issuer](https://github.com/lancatlin/bitmark-issuer)|A simple Bitmark souvenir sending site|Chinese|@lancatlin|
+
+# Not Open Source but fun projects:
+| Project Repo | Description | Language | Author |
+|--------------|-------------|----------|--------|
+|[VRintelligentART](https://www.vruot.com/vrintelligentart)|VRintelligentART is the first algorithmic art/encryption application released by VRUoT|English|VRUoT|
